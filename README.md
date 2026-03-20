@@ -1,4 +1,5 @@
-ShopMetrics E-Commerce Customer Behaviour EDA
+## ShopMetrics E-Commerce Customer Behaviour EDA - Python
+
 **Domain:** E-Commerce Analytics
 
 A full customer behaviour analysis for ShopMetrics with 2,000 customers and 8,500+ orders across two years. Part of a three-project e-commerce series alongside the SQL analysis and Power BI dashboard.
